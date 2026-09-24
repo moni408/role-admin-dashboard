@@ -170,15 +170,10 @@ All screenshots are stored in the `docs/` folder:
 
 ## Walkthrough Video
 
-Link: **[https://drive.google.com/file/d/1ggfmOYe73WCdphHJPCNW4bacOb8g_20F/view?usp=drive_link]**
+Link: https://drive.google.com/file/d/1ggfmOYe73WCdphHJPCNW4bacOb8g_20F/view?usp=drive_link
 
-The 5-minute video covers:
-
-1. Architecture overview (Supabase schema, RLS policies)
-2. Live demo of all three roles (admin, judge, viewer)
-3. DevTools escalation attempt — showing RLS blocking the attack
-4. Security model summary
-
+##Live Host
+Link: https://web-04-role-based-dashboard.netlify.app
 ---
 
 ## Setup (Local)
