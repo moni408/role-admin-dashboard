@@ -4,6 +4,14 @@ A minimal admin dashboard demonstrating role-based access control with Supabase 
 
 ## Submitted for: WEB-04 · Role-gated admin dashboard slice
 
+## 🔗 Links
+
+- **Live Demo:** https://web-04-role-based-dashboard.netlify.app
+- **GitHub Repository:** https://github.com/moni408/role-admin-dashboard.git
+- **Walkthrough Video:** https://drive.google.com/file/d/1ggfmOYe73WCdphHJPCNW4bacOb8g_20F/view
+
+---
+
 ## Overview
 
 The application has three roles — `admin`, `judge`, and `viewer`. Each role has different visibility into the applications table:
@@ -170,10 +178,15 @@ All screenshots are stored in the `docs/` folder:
 
 ## Walkthrough Video
 
-Link: https://drive.google.com/file/d/1ggfmOYe73WCdphHJPCNW4bacOb8g_20F/view?usp=drive_link
+Link: **[INSERT DRIVE VIDEO LINK HERE]**
 
-##### Live Host
-Link: https://web-04-role-based-dashboard.netlify.app
+The 5-minute video covers:
+
+1. Architecture overview (Supabase schema, RLS policies)
+2. Live demo of all three roles (admin, judge, viewer)
+3. DevTools escalation attempt — showing RLS blocking the attack
+4. Security model summary
+
 ---
 
 ## Setup (Local)
@@ -188,6 +201,7 @@ Create a `.env` file in the project root:
 ```
 VITE_SUPABASE_URL=https://madnhxcbqhtabjbgujjg.supabase.co
 VITE_SUPABASE_ANON_KEY=sb_publishable_GDyM3tbd-EY-V1iR_s8FRw_yudkCFGR
+
 
 ```
 
