@@ -170,7 +170,7 @@ All screenshots are stored in the `docs/` folder:
 
 ## Walkthrough Video
 
-Link: **[INSERT DRIVE VIDEO LINK HERE]**
+Link: **[https://drive.google.com/file/d/1ggfmOYe73WCdphHJPCNW4bacOb8g_20F/view?usp=drive_link]**
 
 The 5-minute video covers:
 
